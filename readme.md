@@ -31,7 +31,7 @@ First, download the project files to your computer.
 
 Bash
 
-git clone https://github.com/your-username/FlowStateAI.git
+git clone https://github.com/smith-gaikwad/FlowStateAI.git
 cd FlowStateAI
 2. Create and Activate the Virtual Environment (venv)
 A virtual environment is a private sandbox for your project's libraries. This ensures that the project's dependencies don't interfere with other Python projects on your system.
@@ -53,6 +53,7 @@ Install all the necessary Python packages from the requirements.txt file.
 Bash
 
 pip install -r requirements.txt
+
 4. Configure the Simulation
 Before the first run, you need to configure the simulation files for your chosen map (e.g., Mumbai).
 
