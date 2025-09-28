@@ -33,7 +33,9 @@ Bash
 
 git clone https://github.com/smith-gaikwad/FlowStateAI.git
 cd FlowStateAI
+
 2. Create and Activate the Virtual Environment (venv)
+   
 A virtual environment is a private sandbox for your project's libraries. This ensures that the project's dependencies don't interfere with other Python projects on your system.
 
 On Windows:
