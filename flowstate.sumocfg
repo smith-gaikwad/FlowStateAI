@@ -1,0 +1,13 @@
+<configuration>
+    <input>
+        <net-file value="mumbai_csmt.net.xml"/>
+        <route-files value="mumbai_csmt.rou.xml"/>
+        <additional-files value="detectors.add.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+    </time>
+    <processing>
+        <ignore-route-errors value="true"/>
+    </processing>
+</configuration>
